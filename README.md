@@ -6,7 +6,10 @@ Trabalho de logica da programação, realizado durante a residencia de software 
      Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [1. Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
+ou negativo, caso isso ocorra você deve informar ao usuário que o segundo número deve ser maior
+do que ZERO e solicitar um novo valor. Deverá imprimir o resultado. Ao final deve perguntar se
+deseja calcular outra divisão e caso sua resposta seja positiva limpe a tela e solicite novos valores.](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
