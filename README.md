@@ -4,14 +4,14 @@ Trabalho de logica da programação, realizado durante a residencia de software 
 Listas de exercicios
 =================
 <!--ts-->
-      * Exercicio 1(#Exercicio 1)
-      * Exercicio 2(#Exercicio 2)
-      * Exercicio 3(#Exercicio 3)
-      * Exercicio 4(#Exercicio 4)
-      * Exercicio 5(#Exercicio 5)
-      * Exercicio 6(#Exercicio 6)
-      * Exercicio 7(#Exercicio 7)
-      * Exercicio 8(#Exercicio 8)
-      * Exercicio 9(#Exercicio 9)
-      * Exercicio 10(#Exercicio 10)
+      * Exercício 1(#Exercício 1)
+      * Exercício 2(#Exercício 2)
+      * Exercício 3(#Exercício 3)
+      * Exercício 4(#Exercício 4)
+      * Exercício 5(#Exercício 5)
+      * Exercício 6(#Exercício 6)
+      * Exercício 7(#Exercício 7)
+      * Exercício 8(#Exercício 8)
+      * Exercício 9(#Exercício 9)
+      * Exercício 10(#Exercício 10)
 <!--te-->
