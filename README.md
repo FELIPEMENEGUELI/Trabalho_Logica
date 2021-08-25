@@ -1,17 +1,20 @@
 <h1 align="center">Trabalho de lógica de programação</h1>
 Trabalho de logica da programação, realizado durante a residencia de software Serratec<br>
 
-Listas de exercicios
+
+     Tabela de conteúdos
 =================
 <!--ts-->
-      * [Exercício 1](#Exercício 1)
-      * [Exercício 2](#Exercício 2)
-      * [Exercício 3](#Exercício 3)
-      * [Exercício 4](#Exercício 4)
-      * [Exercício 5](#Exercício 5)
-      * [Exercício 6](#Exercício 6)
-      * [Exercício 7](#Exercício 7)
-      * [Exercício 8](#Exercício 8)
-      * [Exercício 9](#Exercício 9)
-      * [Exercício 10](#Exercício 10)
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
 <!--te-->
+
