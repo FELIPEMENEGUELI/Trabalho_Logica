@@ -16,6 +16,13 @@ Trabalho de logica da programação, realizado durante a residencia de software 
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
    * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Tecnologias](#tecnologias)<br>
+
+
+<p align="center">
+	<h2 align="center"> Visite <h\2><br>
+ <a href="http://www.allskyexossjam1.br-web.com/">AllSky Exoss</a> <br>
+<a href="http://serratec.org/">Serratec</a> 
+
 <!--te-->
 
