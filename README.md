@@ -1,6 +1,6 @@
 <h1 align="center">Trabalho de lógica de programação</h1>
 <h3>
-Trabalho de logica da programação, realizado durante a residencia de software Serratec<br>
+Trabalho de logica da programação, realizado durante a Residencia de Software/TIC Serratec<br>
 </h3>
 
      Tabela de conteúdos
